@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+**This app generates a random image from a given string**
 
 ## Installation
 
